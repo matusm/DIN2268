@@ -29,7 +29,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="At.Matus.DataSeriesPod">
-      <HintPath>..\At.Matus.DataSeriesPod\bin\Release\At.Matus.DataSeriesPod.dll</HintPath>
+      <HintPath>..\DataSeriesPod\bin\Release\At.Matus.DataSeriesPod.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
